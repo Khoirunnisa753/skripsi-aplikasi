@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama -->
+    <color name="primary">#1877F2</color> <!-- Biru khas Facebook -->
+    <color name="primary_dark">#1155A3</color> <!-- Biru lebih gelap -->
+    <color name="primary_light">#E7F3FF</color> <!-- Biru muda -->
+
+    <!-- Warna Sekunder -->
+    <color name="secondary">#4267B2</color> <!-- Biru keunguan khas Facebook -->
+    <color name="accent">#29487D</color> <!-- Biru tua sebagai aksen -->
+
+    <!-- Warna Teks dan Latar Belakang -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

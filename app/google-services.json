@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907593821458",
+    "project_id": "skripsi-6f8ca",
+    "storage_bucket": "skripsi-6f8ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907593821458:android:967ee234c4d3ef594e57cb",
+        "android_client_info": {
+          "package_name": "com.skripsi.nisuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-vWrIH9guj3fBI1GI6O4WB7tZ65qAPJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

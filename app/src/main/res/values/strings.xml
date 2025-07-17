@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money Classifier</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">907593821458-ktaekol7aicdr9v1rnvb5f01c6sffe22.apps.googleusercontent.com</string>
+
+</resources>
